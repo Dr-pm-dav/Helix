@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Helix Grid Intelligence</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="shell header">
+      <div>
+        <p class="eyebrow">Nuclear + renewable grid intelligence</p>
+        <h1>Helix</h1>
+      </div>
+      <form id="controls" class="controls">
+        <label>
+          Balancing authority
+          <select id="respondent"></select>
+        </label>
+        <label>
+          Start date (UTC)
+          <input id="start" type="date" value="2025-04-01" />
+        </label>
+        <label>
+          End date (UTC)
+          <input id="end" type="date" value="2025-04-30" />
+        </label>
+        <button type="submit">Refresh view</button>
+      </form>
+    </header>
+
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">California ISO test slice</p>
+          <h2>The midday valley, with nuclear in the frame.</h2>
+          <p>
+            Track demand, variable renewables, and the residual load remaining
+            after nuclear generation. Facility outages are shown separately as
+            national fleet context.
+          </p>
+        </div>
+        <div class="freshness">
+          <span>Data freshness</span>
+          <strong id="freshness">Loading...</strong>
+          <small id="coverage"></small>
+        </div>
+      </section>
+
+      <section id="summary" class="summary"></section>
+
+      <section class="panel chart-panel">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Average hourly profile</p>
+            <h3>Duck curve</h3>
+          </div>
+          <div class="legend">
+            <span><i class="demand"></i>Demand</span>
+            <span><i class="net"></i>Net load after wind + solar</span>
+            <span><i class="residual"></i>Residual after nuclear</span>
+          </div>
+        </div>
+        <div id="duck-chart" class="chart"></div>
+        <p class="footnote">Net load = demand - wind - solar. Date filters use UTC; profile hours use Pacific time for CISO.</p>
+      </section>
+
+      <section class="grid-two">
+        <section class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Average hourly profile</p>
+              <h3>Generation mix</h3>
+            </div>
+          </div>
+          <div id="mix-chart" class="chart compact"></div>
+          <div id="mix-legend" class="legend wrap"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Context only</p>
+              <h3>U.S. nuclear fleet outages</h3>
+            </div>
+            <strong id="max-outage"></strong>
+          </div>
+          <div id="outage-chart" class="chart compact"></div>
+          <p class="footnote">
+            National NRC-derived facility outages are not joined causally to CISO generation.
+          </p>
+        </section>
+      </section>
+    </main>
+
+    <script src="/static/dashboard.js"></script>
+  </body>
+</html>

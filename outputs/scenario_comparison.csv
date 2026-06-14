@@ -1,0 +1,6 @@
+scenario,peak_demand_mwh,min_net_load_mwh,max_hourly_ramp_mwh,peak_residual_mwh,curtailment_hours,renewable_share
+baseline,29123.3,4614.6,5463.2,25905.2,0,0.261
++50% renewables,29123.3,-3422.7,7296.8,25320.0,24,0.3916
+2x renewables,29123.3,-11460.1,9224.0,24734.8,190,0.5221
+nuclear at 50%,29123.3,4614.6,5463.2,26465.1,0,0.261
+"2x renewables, nuclear 50%",29123.3,-11460.1,9224.0,25294.7,190,0.5221

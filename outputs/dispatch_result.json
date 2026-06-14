@@ -1,0 +1,46 @@
+{
+  "n_units": 7,
+  "target_load": 15.4,
+  "penalty": 10.0,
+  "exact": {
+    "bitstring": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "cost": 77.10000000000036,
+    "committed": [
+      "Hydro",
+      "CCGT-1",
+      "CCGT-2"
+    ],
+    "served_capacity": 15.5,
+    "commit_cost": 77.0
+  },
+  "qaoa": {
+    "bitstring": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "cost": 77.10000000000036,
+    "prob_of_solution": 0.018374269112320523,
+    "p": 4,
+    "committed": [
+      "Hydro",
+      "CCGT-1",
+      "CCGT-2"
+    ],
+    "served_capacity": 15.5,
+    "commit_cost": 77.0
+  },
+  "optimum_recovered": true
+}

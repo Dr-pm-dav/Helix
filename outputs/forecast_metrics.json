@@ -1,0 +1,18 @@
+{
+  "solar": {
+    "skill_score": 0.8519396486274924,
+    "rmse_model": 242.2926306560434,
+    "rmse_persistence": 1636.4450604770961,
+    "mae_model": 162.46521824467808,
+    "n_train": 1062,
+    "n_test": 354
+  },
+  "wind": {
+    "skill_score": 0.496728638716469,
+    "rmse_model": 410.2629711768597,
+    "rmse_persistence": 815.1923648715775,
+    "mae_model": 326.1898147754448,
+    "n_train": 1062,
+    "n_test": 354
+  }
+}

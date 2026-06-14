@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.pytest-tmp/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets and locally ingested data (regenerate with ingest_slice.py)
+.env
+data/
+
+# OS
+.DS_Store

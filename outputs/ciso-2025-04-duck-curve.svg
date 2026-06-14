@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1120 680">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        fill: none;
+      }
+
+      .st0, .st1, .st3, .st4, .st5, .st6 {
+        stroke-width: 4px;
+      }
+
+      .st0, .st3 {
+        stroke: #db6b3d;
+      }
+
+      .st1, .st3, .st4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st1, .st6 {
+        stroke: #7267d9;
+      }
+
+      .st8, .st9 {
+        fill: #20324a;
+      }
+
+      .st8, .st9, .st10, .st11, .st12, .st13 {
+        isolation: isolate;
+      }
+
+      .st8, .st10, .st11, .st12, .st13 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st8, .st11 {
+        font-size: 13px;
+      }
+
+      .st9 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 26px;
+        font-weight: 700;
+      }
+
+      .st2 {
+        stroke: #e6e9ef;
+      }
+
+      .st10 {
+        font-size: 15px;
+      }
+
+      .st10, .st11, .st12, .st13 {
+        fill: #627083;
+      }
+
+      .st4, .st5 {
+        stroke: #20324a;
+      }
+
+      .st12 {
+        font-size: 12px;
+      }
+
+      .st14 {
+        fill: #fbfaf7;
+      }
+
+      .st7 {
+        stroke: #9ba8b8;
+      }
+
+      .st13 {
+        font-size: 11px;
+      }
+    </style>
+  </defs>
+  <rect class="st14" width="1120" height="680"/>
+  <text class="st9" transform="translate(56 45)"><tspan x="0" y="0">Helix Duck Curve</tspan></text>
+  <text class="st10" transform="translate(56 70)"><tspan x="0" y="0">CISO average hourly profile | April 2025 | Pacific time</tspan></text>
+  <line class="st2" x1="92" y1="576" x2="1080" y2="576"/>
+  <text class="st12" transform="translate(65.33 581)"><tspan x="0" y="0">0k</tspan></text>
+  <line class="st2" x1="92" y1="488.6" x2="1080" y2="488.6"/>
+  <text class="st12" transform="translate(65.33 493.6)"><tspan x="0" y="0">5k</tspan></text>
+  <line class="st2" x1="92" y1="401.2" x2="1080" y2="401.2"/>
+  <text class="st12" transform="translate(58.65 406.2)"><tspan x="0" y="0">10k</tspan></text>
+  <line class="st2" x1="92" y1="313.8" x2="1080" y2="313.8"/>
+  <text class="st12" transform="translate(58.65 318.8)"><tspan x="0" y="0">15k</tspan></text>
+  <line class="st2" x1="92" y1="226.3" x2="1080" y2="226.3"/>
+  <text class="st12" transform="translate(58.65 231.3)"><tspan x="0" y="0">20k</tspan></text>
+  <line class="st2" x1="92" y1="138.9" x2="1080" y2="138.9"/>
+  <text class="st12" transform="translate(58.65 143.9)"><tspan x="0" y="0">25k</tspan></text>
+  <line class="st2" x1="92" y1="51.5" x2="1080" y2="51.5"/>
+  <text class="st12" transform="translate(58.65 56.5)"><tspan x="0" y="0">30k</tspan></text>
+  <line class="st2" x1="92" y1="92" x2="92" y2="576"/>
+  <text class="st12" transform="translate(76.99 603)"><tspan x="0" y="0">00:00</tspan></text>
+  <line class="st2" x1="220.9" y1="92" x2="220.9" y2="576"/>
+  <text class="st12" transform="translate(205.89 603)"><tspan x="0" y="0">03:00</tspan></text>
+  <line class="st2" x1="349.7" y1="92" x2="349.7" y2="576"/>
+  <text class="st12" transform="translate(334.69 603)"><tspan x="0" y="0">06:00</tspan></text>
+  <line class="st2" x1="478.6" y1="92" x2="478.6" y2="576"/>
+  <text class="st12" transform="translate(463.59 603)"><tspan x="0" y="0">09:00</tspan></text>
+  <line class="st2" x1="607.5" y1="92" x2="607.5" y2="576"/>
+  <text class="st12" transform="translate(592.49 603)"><tspan x="0" y="0">12:00</tspan></text>
+  <line class="st2" x1="736.3" y1="92" x2="736.3" y2="576"/>
+  <text class="st12" transform="translate(721.29 603)"><tspan x="0" y="0">15:00</tspan></text>
+  <line class="st2" x1="865.2" y1="92" x2="865.2" y2="576"/>
+  <text class="st12" transform="translate(850.19 603)"><tspan x="0" y="0">18:00</tspan></text>
+  <line class="st2" x1="994.1" y1="92" x2="994.1" y2="576"/>
+  <text class="st12" transform="translate(979.09 603)"><tspan x="0" y="0">21:00</tspan></text>
+  <line class="st7" x1="92" y1="92" x2="92" y2="576"/>
+  <line class="st7" x1="92" y1="576" x2="1080" y2="576"/>
+  <text class="st11" transform="translate(22 420.58) rotate(-90)"><tspan x="0" y="0">Average hourly energy (MWh)</tspan></text>
+  <text class="st11" transform="translate(513.03 637)"><tspan x="0" y="0">Hour of day (Pacific time)</tspan></text>
+  <polyline class="st4" points="92 159.4 135 181.3 177.9 192.8 220.9 204.6 263.8 214.3 306.8 220.7 349.7 219.3 392.7 203.9 435.7 183 478.6 165.5 521.6 153.3 564.5 153.7 607.5 163.8 650.4 171.1 693.4 183.3 736.3 187.7 779.3 195.3 822.3 196.6 865.2 192.3 908.2 178 951.1 155 994.1 131.3 1037 127.9 1080 138"/>
+  <polyline class="st3" points="92 219.6 135 241.2 177.9 251.2 220.9 262.3 263.8 270.7 306.8 274.1 349.7 269.5 392.7 251.8 435.7 242.7 478.6 326.3 521.6 413.6 564.5 439.2 607.5 453 650.4 468.9 693.4 478.6 736.3 479.3 779.3 482.3 822.3 478.5 865.2 463.7 908.2 416.4 951.1 283.3 994.1 194.8 1037 189 1080 198.6"/>
+  <polyline class="st1" points="92 247.7 135 269.1 177.9 279.1 220.9 290.1 263.8 298.6 306.8 301.9 349.7 297.3 392.7 279.6 435.7 270.5 478.6 354.1 521.6 441.4 564.5 467 607.5 480.8 650.4 496.7 693.4 506.4 736.3 507.1 779.3 510.1 822.3 507 865.2 492.1 908.2 444.9 951.1 311.8 994.1 223.3 1037 217.5 1080 227"/>
+  <line class="st5" x1="615" y1="37" x2="649" y2="37"/>
+  <text class="st8" transform="translate(659 42)"><tspan x="0" y="0">Demand</tspan></text>
+  <line class="st0" x1="615" y1="59" x2="649" y2="59"/>
+  <text class="st8" transform="translate(659 64)"><tspan x="0" y="0">Net load after wind + solar</tspan></text>
+  <line class="st6" x1="615" y1="81" x2="649" y2="81"/>
+  <text class="st8" transform="translate(659 86)"><tspan x="0" y="0">Residual load after nuclear</tspan></text>
+  <text class="st13" transform="translate(92 666)"><tspan x="0" y="0">Source: U.S. EIA Hourly Electric Grid Monitor (Form EIA-930). Net load = demand - wind - solar.</tspan></text>
+</svg>
